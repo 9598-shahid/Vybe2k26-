@@ -1,0 +1,60 @@
+# VYBE2K26
+
+> VYBE2K26 (also written VYBE 2K26) is the inter-college fest of KLE Society's Degree College, Nagarbhavi, Bengaluru - 560072, Karnataka, India. Competitions run on 4 and 5 November 2026, followed by a live concert by Rajesh Krishnan on 6 November 2026 at 6:00 PM.
+
+- Website: https://www.vybe2k26.com/
+- Venue: KLE Society's Degree College, Opposite BDA Complex, Nagarbhavi, Bengaluru - 560072
+- Dates: 4-6 November 2026
+- Registration: each competition has its own registration form, linked from the Register button for that event on the website. Fees are paid by UPI and are non-refundable.
+- Concert tickets: Rajesh Krishnan Live in Concert, 6 November 2026, 6:00 PM, on BookMyShow from Rs 499: https://in.bookmyshow.com/events/rajesh-krishnan-live-in-concert-bengaluru/ET00522582
+- Contact: +91 93539 85382, +91 86607 36466, +91 80889 47005, vybe2k26@klenagarbhavi.edu.in
+- Eligibility: students of any college with a valid college ID card; in group events all team members must be from the same college (unless the event rules say otherwise); up to three teams per college per event.
+
+## Competitions
+
+### Technical
+- Tech Treasure Hunt: 4 Nov 2026, 11:00 AM – 2:00 PM, PU Basement Lab; team: 2–3 members per team; entry fee: Rs 200 per team
+- Code Relay: 4 Nov 2026, 2:00 PM – 4:00 PM, Computer Laboratories (PB1, PB2, and PB3); team: 3 members per team; entry fee: Rs 200 per team
+- Live Deploy Race: 5 Nov 2026, 9:00 AM – 12:00 PM, PU Basement Lab; team: 2 members per team; entry fee: Rs 200 per team
+- Gen AI Cinema: 4 Nov 2026, 11:00 AM – 2:00 PM, 3rd Floor, BCA Department (LH-1); team: 1–3 members per team; entry fee: Rs 100 per participant
+- De_Code: 5 Nov 2026, 3:00 PM – 5:00 PM, PU Basement Lab; team: 2–3 members per team; entry fee: Rs 200 per team
+- Tech Arena: 5 Nov 2026, 12:00 PM – 3:00 PM, PU Basement Lab; team: 2–3 members per team; entry fee: Rs 200 per team
+
+### Cultural
+- Group Dance: 4 Nov 2026, 10:30 AM onwards, Auditorium; team: Minimum 4 participants per team; entry fee: Rs 1,000 per team
+- Solo Dance: 4 Nov 2026, 10:30 AM onwards, Auditorium; team: Individual; entry fee: Rs 300 per participant
+- Group Singing: 5 Nov 2026, 10:00 AM onwards, Auditorium; team: Minimum 3 participants per team; entry fee: Rs 400 per team
+- Solo Singing: 5 Nov 2026, 10:00 AM onwards, Auditorium; team: Individual; entry fee: Rs 200 per participant
+- Fashion Show: 5 Nov 2026, 12:30 PM onwards, Auditorium; team: Minimum 6 participants per team; entry fee: Rs 2,000 per team
+
+### Management
+- Billion Dollar Stuff: 4 Nov 2026, 11:00 AM, 2nd Floor, BBA Department (Room No: LHS - 3); team: 3 members per team; entry fee: Rs 300 per team
+- Rebranding: 5 Nov 2026, 10:00 AM, 2nd Floor, BBA Department (Room No: LHS - 3); team: 2 members per team; entry fee: Rs 300 per team
+- Best Manager: 5 Nov 2026, 10:00 AM, 2nd Floor, BBA Department (Room No: LHS - 2); team: Individual; entry fee: Rs 300 per participant
+
+### Commerce
+- Treasure Hunt: 5 Nov 2026, 11:00 AM, College ground; team: 3 members per team; entry fee: Rs 400 per team
+- Product Launch: 4 Nov 2026, 2:30 PM – 5:00 PM, LH F1, LH F3 and LH F4; team: 2 members per team; entry fee: Rs 300 per team
+- Scary House: 4 & 5 Nov 2026, 11:00 AM, LH B1 and B2; team: 3 members per team; entry fee: Rs 300 per team of 3
+- Biz-Quiz: 4 Nov 2026, 11:00 AM, LH G2 and LH F6; team: 2 members per team; entry fee: Rs 300 per team
+- Beg, Borrow, Steal: 4 Nov 2026, 11:00 AM, College Ground; team: 4 members per team; entry fee: Rs 500 per team
+- Rocket League: 5 Nov 2026, 2:30 PM – 5:00 PM, LH F1; team: Individual; entry fee: Rs 300 per participant
+- Mock Stock: 5 Nov 2026, 9:00 AM, LH G2; team: 2 members per team; entry fee: Rs 300 per team
+
+### Gaming
+- IPL Auction: 5 Nov 2026, 10:00 AM, 2nd Floor, BBA Department (Room No: LHS - 7); team: 4 members per team; entry fee: Rs 400 per team
+- The Court of Four: 4 & 5 Nov 2026, 10:00 AM, 2nd Floor, BBA Department (Room No: LHS - 4 and PU Quadrangle); team: 2 members per team; entry fee: Rs 200 per team
+- Escape Room: 4 & 5 Nov 2026, 10:00 AM, 2nd Floor, BBA Department (Room No: LHS - 1); team: 2 members per team; entry fee: Rs 200 per team
+- Commodity Auction: 4 Nov 2026, 11:00 AM, 2nd Floor, BBA Department (Room No: LHS - 7); team: 3 members per team; entry fee: Rs 300 per team
+- BGMI: 4 Nov 2026, 11:00 AM – 5:00 PM, 3rd Floor, BCA Department (LH-4 to LH-7); team: 4 players per team; entry fee: Rs 400 per team
+- Free Fire: 5 Nov 2026, 9:00 AM – 5:00 PM, 3rd Floor, BCA Department (LH-4 to LH-7); team: 4 players per team; entry fee: Rs 400 per team
+
+### Creative Arts
+- Nail Art: 5 Nov 2026, 12:00 PM, PU Basement; team: Team of 2 (participant and model); entry fee: Rs 150 per team
+- Pencil Sketching: 4 Nov 2026, 11:00 AM, Library; team: Individual; entry fee: Rs 150 per participant
+- Face Painting: 4 Nov 2026, 1:00 PM, Library; team: Pair (1 painter + 1 model); entry fee: Rs 150 per team
+- Make-Up: 5 Nov 2026, 10:00 AM, Library; team: Team of 2 (artist and muse); entry fee: Rs 300 per team
+- Mehandi: 5 Nov 2026, 1:00 PM, Library; team: Participant with a model; entry fee: Rs 150 per team
+
+### Dog Show
+- Dog Show: 5 Nov 2026, 11:00 AM, College Ground; entry fee: Adult Rs 600 · Puppy Rs 400 per dog
